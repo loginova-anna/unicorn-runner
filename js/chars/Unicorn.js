@@ -73,9 +73,9 @@ const UNICORN = {
             frameLen: 20,
             frames: [
                 'run-1',
-                'run-2',
+                // 'run-2',
                 'run-3',
-                'run-4'
+                // 'run-4'
             ]
         },
         {
